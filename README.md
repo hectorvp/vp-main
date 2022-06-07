@@ -12,6 +12,10 @@ vp
 * [Usage](#usage)
 * [Commands](#commands)
 <!-- tocstop -->
+
+Download [vp.gz](https://github.com/hectorvp/vp-main/releases/latest/download/vp.gz)
+
+
 # Usage
 <!-- usage -->
 ```sh-session
